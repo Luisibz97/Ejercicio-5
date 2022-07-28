@@ -10,3 +10,9 @@ const miAlturaDecimalRedondeada = miAlturaDecimal.toFixed(1);
 const miPesoRedondeado = Math.round(miPeso);
 
 const valorMaximo = Number.MAX_VALUE + 1 === Number.MAX_VALUE;
+
+console.log(miAlturaDecimalRedondeada);
+
+console.log(miPesoRedondeado);
+
+console.log(valorMaximo);
